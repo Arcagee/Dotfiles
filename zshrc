@@ -41,7 +41,7 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 alias ls='colorls'
 
-# Spotify terminal client
+# Custom Spotify 
 export SPICETIFY_INSTALL="/home/ankush/spicetify-cli"
 export PATH="$SPICETIFY_INSTALL:$PATH"
 
